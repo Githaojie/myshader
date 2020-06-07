@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_FishManShaderTutorial-master.-844519477.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Administrator\Desktop\ET\FishManShaderTutorial-master" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="FishManShaderTutorial" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="CameraControler.cs" t="Include" />
+            <e p="ConstVar.cs" t="Include" />
+            <e p="LightScanWithDepthTexture.cs" t="Include" />
+            <e p="MergeRayMarch.cs" t="Include" />
+            <e p="PostEffectsBase.cs" t="Include" />
+            <e p="ShowFPS.cs" t="Include" />
+            <e p="ThirdPersonUserControl.cs" t="Include" />
+            <e p="Tools" t="Include">
+              <e p="Editor" t="Include">
+                <e p="EditorCreateNoiseTex.cs" t="Include" />
+                <e p="EditorCreateTerrialMap.cs" t="Include" />
+                <e p="EditorGLSL2CG.cs" t="Include" />
+              </e>
+              <e p="GLSL2CGGenerator.cs" t="Include" />
+              <e p="NoiseTools.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="2DCloudSea.shader" t="Include" />
+            <e p="2DFireParticle.shader" t="Include" />
+            <e p="2DLava.shader" t="Include" />
+            <e p="2DRain.shader" t="Include" />
+            <e p="2DSnow.shader" t="Include" />
+            <e p="BaseMath.shader" t="Include" />
+            <e p="Caustic_RotateMin.shader" t="Include" />
+            <e p="Caustic_TriTwist.shader" t="Include" />
+            <e p="Caustic_Voronoi.shader" t="Include" />
+            <e p="Cloud.shader" t="Include" />
+            <e p="Desert.shader" t="Include" />
+            <e p="Fog.shader" t="Include" />
+            <e p="GameHPUI.shader" t="Include" />
+            <e p="HighlandLake.shader" t="Include" />
+            <e p="Lake.shader" t="Include" />
+            <e p="LightScanWithDepthTexture.shader" t="Include" />
+            <e p="Mountain.shader" t="Include" />
+            <e p="Rain.shader" t="Include" />
+            <e p="RaymarchExample.shader" t="Include" />
+            <e p="RayMarchFramework.shader" t="Include" />
+            <e p="RaymarchMergeRaster.shader" t="Include" />
+            <e p="RayMarchSimpleScene.shader" t="Include" />
+            <e p="Ripple.shader" t="Include" />
+            <e p="SDF.shader" t="Include" />
+            <e p="SDFBouncedBall.shader" t="Include" />
+            <e p="Sea.shader" t="Include" />
+            <e p="Sea2.shader" t="Include" />
+            <e p="ShaderLibs" t="Include">
+              <e p="Common.cginc" t="Include" />
+              <e p="FBM.cginc" t="Include" />
+              <e p="Feature.cginc" t="Include" />
+              <e p="Framework2D.cginc" t="Include" />
+              <e p="Framework3D.cginc" t="Include" />
+              <e p="Framework3D_DefaultRender.cginc" t="Include" />
+              <e p="Framework3D_Terrain.cginc" t="Include" />
+              <e p="Hash.cginc" t="Include" />
+              <e p="Math.cginc" t="Include" />
+              <e p="Noise.cginc" t="Include" />
+              <e p="SDF.cginc" t="Include" />
+            </e>
+            <e p="Sky.shader" t="Include" />
+            <e p="SoapBubble.shader" t="Include" />
+            <e p="Stars.shader" t="Include" />
+            <e p="TerrianMap.shader" t="Include" />
+            <e p="Voronoi.shader" t="Include" />
+          </e>
+        </e>
+        <e p="guiraffe" t="Include">
+          <e p="SubstanceOrb" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="OrbColorEditor.cs" t="Include" />
+              </e>
+              <e p="OrbAnimator.cs" t="Include" />
+              <e p="OrbColor.cs" t="Include" />
+              <e p="OrbFill.cs" t="Include" />
+              <e p="SampleOrbAnimator.cs" t="Include" />
+              <e p="Utils" t="Include">
+                <e p="OrbVariable.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="ShaderLibs" t="Include">
+                <e p="Common.cginc" t="Include" />
+                <e p="FBM.cginc" t="Include" />
+                <e p="Feature.cginc" t="Include" />
+                <e p="Framework2D.cginc" t="Include" />
+                <e p="Framework3D.cginc" t="Include" />
+                <e p="Framework3D_DefaultRender.cginc" t="Include" />
+                <e p="Framework3D_Terrain.cginc" t="Include" />
+                <e p="Hash.cginc" t="Include" />
+                <e p="Math.cginc" t="Include" />
+                <e p="Noise.cginc" t="Include" />
+                <e p="SDF.cginc" t="Include" />
+              </e>
+              <e p="SubstanceOrb.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="liquid.shader" t="Include" />
+        <e p="Unity Shader 剔除黑色背景" t="Include">
+          <e p="FilterBlack.shader" t="Include" />
+          <e p="MaskBlack.shader" t="Include" />
+        </e>
+        <e p="Unity3D Shader 实现圆角矩形和圆形区域" t="Include">
+          <e p="Vignette.shader" t="Include" />
+        </e>
+        <e p="使用透明度实现Mask遮罩的Unity Shader" t="Include">
+          <e p="NewSurfaceShader.shader" t="Include" />
+        </e>
+      </e>
+      <e p="FishManShaderTutorial-master.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
